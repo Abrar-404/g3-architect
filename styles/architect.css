@@ -171,7 +171,15 @@ margin: 0;
   height: 90%;
   margin-left: 50px;
 }
-
+.footer{
+  background-color: #FFF4E7;
+  padding: 30px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin-left: 40px;
+  margin-right: 40px;
+}
 
 
 
